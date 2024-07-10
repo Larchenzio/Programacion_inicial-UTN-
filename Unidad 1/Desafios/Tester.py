@@ -1,0 +1,5 @@
+print("\nPor favor ingrese sus datos\n")
+fname= input("Nombre: ")
+lname= input("Apellido: ")
+age= int(input("Edad: "))
+print(f"sus datos son los siguientes {fname} {lname} {age} años ")
